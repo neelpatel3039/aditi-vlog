@@ -97,3 +97,19 @@
   .push {
     height: 50px;
   }
+
+.travel-icon{
+  height: 2em;
+  width: 2em;
+  margin-bottom:25px;
+}
+
+.travel-icon-small{
+  height: 1em;
+  width: 1em;
+  margin-bottom:5px;
+}
+
+.travel-icon-circle{
+  border-radius: 50%;
+}
